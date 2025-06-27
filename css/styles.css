@@ -4,7 +4,8 @@ body {
     font-family: "Montserrat", sans-serif;
     font-weight: 550;
     position: relative;
-    color:rgb(64, 65, 64)
+    color:rgb(64, 65, 64);
+    background-color:antiquewhite;
 }
 
 h1 {
@@ -34,7 +35,7 @@ hr {
     border-top-style: dotted;
     border-color: rgb(189, 188, 188);
     border-width: 7px;
-    width: 5%;
+    width: 70px;
     margin: 100px auto;
 }
 p {
