@@ -1,0 +1,182 @@
+body {
+    margin: 0;
+    text-align: center;
+    font-family: "Montserrat", sans-serif;
+    font-weight: 550;
+    position: relative;
+    color:rgb(64, 65, 64)
+}
+
+h1 {
+    font-family: "Sacramento", cursive;
+    font-size: 5.625rem;
+    margin: 50px auto 0 auto;
+    color: #0095a0;
+}
+
+h2{
+    font-family: "Ubuntu", sans-serif;
+    font-size: 2.5rem;
+    color: #007e62;
+}
+
+h3{
+    font-family: "Ubuntu", sans-serif;
+    color:#005240;
+}
+
+h4{
+    font-family: "Ubuntu", sans-serif;
+}
+
+hr {
+    border-style: none;
+    border-top-style: dotted;
+    border-color: rgb(189, 188, 188);
+    border-width: 7px;
+    width: 5%;
+    margin: 100px auto;
+}
+p {
+    line-height: 2;
+}
+
+#name {
+    margin: 0 auto;
+    font-weight: normal;
+}
+
+#dp {
+    width: 250px;
+    height: 250px;
+    border-radius: 50%;
+    margin: 0 auto;
+}
+
+.profile {
+    width: 50%;
+    margin: 0 auto;
+    margin-bottom: 110px;
+}
+.my-description {
+    width: 47%;
+    margin:auto;
+}
+
+.hello{
+    margin-bottom: 30px;
+}
+
+.top-container {
+    background-color: #ECFAE5;
+    position: relative;
+    padding-top: 130px;
+    margin-bottom: 70px;
+}
+
+.middle-container {
+}
+.bottom-container {
+    background-color: #83f5c9;
+    padding-top: 50px;
+    position: relative;
+    top: 20px;
+}
+.top-cloud {
+    width: 200px;
+    height: auto;
+    position: absolute;
+    top: 5%;
+    right: 15%;
+}
+.mountain {
+    width: 1300px;
+    padding-top: 100px;
+    margin-bottom: 0;
+    padding-bottom: 0;
+}
+.bottom-cloud {
+    width: 200px;
+    height: auto;
+    position: absolute;
+    top: 40%;
+    left: 15%; 
+}
+.web{
+    font-size: 1.3em;
+    font-style: italic;
+    text-decoration: underline;
+}
+
+.skill-row {
+    width: 50%;
+    margin: auto auto;
+    margin-top: 100px;
+    margin-bottom: 200px;
+    text-align: left;
+}
+
+.my-skills{
+    margin-top: 110px;
+}
+
+.designing {
+    width: 30%;
+    height: auto;
+    float: left;
+    padding-right: 30px;
+    margin-right: 30px;
+}
+.cricket {
+    background-color: indigo;
+    border-radius: 50%;
+    width: 27%;
+    height: auto;
+    float: right;
+    margin-left: 30px;
+}
+.get-in-touch {
+    margin-top: 110px;
+}
+.contact-me {
+    width: 50%;
+    margin: auto auto;
+    margin-bottom: 100px;
+}
+.contact-description {
+    width: 50%;
+    margin: auto;
+    margin-bottom: 50px;
+    margin-top: 50px;
+}
+.footer-link{
+    margin: auto 30px auto 30px;
+    color:#00bd94;
+    text-decoration: none;
+}
+.footer-link:hover{
+    color:#005240;
+}
+.name-copyright{
+    margin-top: 40px;
+    color:seagreen;
+    font-size: 0.8rem;
+}
+.btn{
+    text-decoration: none;
+    color: white;
+    background-color:#00a782;
+    font-size: 20px;
+    font-family: "Ubuntu", sans-serif;
+    border: solid #00a782;
+    border-radius: 8px;
+    border-width: 10px 20px 10px 20px;
+}
+.btn:hover{
+    background-color: #007e62;
+    color: white;
+    border-color: #007e62;
+    transition: 0.3s ease-in-out;
+    font-size: 22px;
+    border-width: 11px 22px;
+}
