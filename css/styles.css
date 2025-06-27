@@ -90,7 +90,7 @@ p {
     right: 15%;
 }
 .mountain {
-    width: 1300px;
+    width: 60em;
     padding-top: 100px;
     margin-bottom: 0;
     padding-bottom: 0;
@@ -99,7 +99,7 @@ p {
     width: 200px;
     height: auto;
     position: absolute;
-    top: 40%;
+    top: 25em;
     left: 15%; 
 }
 .web{
